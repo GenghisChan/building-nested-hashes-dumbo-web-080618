@@ -16,7 +16,7 @@ cutio", age: "18", attitude: "hot-headed"}]
       :heroine_friends => [{name: "Steven", age: "30", attitude: "confused"}, {name: "Nu
 rse", age: "44", attitude: "worried"}]
         #your hashes here!
-      ]
+      
    }
 }
 
